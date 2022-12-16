@@ -1,0 +1,15 @@
+E:\учеба\practC#\pract\task_001\bin\Debug\net7.0\task_001.exe
+E:\учеба\practC#\pract\task_001\bin\Debug\net7.0\task_001.deps.json
+E:\учеба\practC#\pract\task_001\bin\Debug\net7.0\task_001.runtimeconfig.json
+E:\учеба\practC#\pract\task_001\bin\Debug\net7.0\task_001.dll
+E:\учеба\practC#\pract\task_001\bin\Debug\net7.0\task_001.pdb
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.csproj.AssemblyReference.cache
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.AssemblyInfoInputs.cache
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.AssemblyInfo.cs
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.csproj.CoreCompileInputs.cache
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.dll
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\refint\task_001.dll
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.pdb
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\task_001.genruntimeconfig.cache
+E:\учеба\practC#\pract\task_001\obj\Debug\net7.0\ref\task_001.dll
